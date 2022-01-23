@@ -48,7 +48,7 @@ public class DbSeeder implements CommandLineRunner{
         System.out.println("___________________________________");
         System.out.println("Test MongoDB repository");
         System.out.println("Find seller(s) by first name");
-        _sellerRepository.findByFirstName("magdY").forEach(System.out::println);
+        _sellerRepository.findByFirstName("baccar").forEach(System.out::println);
         System.out.println("___________________________________");
     }
 }
