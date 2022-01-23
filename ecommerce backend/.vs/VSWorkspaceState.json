@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\store",
+    "\\src\\main\\java\\com\\store\\ecommerce",
+    "\\src\\main\\java\\com\\store\\ecommerce\\controllers"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\store\\ecommerce\\controllers\\CategoryService.java",
+  "PreviewInSolutionExplorer": false
+}
